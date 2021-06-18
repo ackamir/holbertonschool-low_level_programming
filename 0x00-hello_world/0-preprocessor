@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc source .c -o -E opt
+gcc $CFILE -o c -E
