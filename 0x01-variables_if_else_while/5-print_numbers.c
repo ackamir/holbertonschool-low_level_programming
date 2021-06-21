@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Program that displays the entire alphabet in lowercase letters
+ * main - Program that displays numbers from 0-9 as chars
  * Return: 0
  */
 
