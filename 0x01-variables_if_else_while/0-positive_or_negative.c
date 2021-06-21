@@ -4,7 +4,7 @@
 
 /**
  * main - A brief program that prints a random number and determines whether it
- * 	  is positive, negative or zero.
+ *        is positive, negative or zero.
  *
  * Return: 0
 */
